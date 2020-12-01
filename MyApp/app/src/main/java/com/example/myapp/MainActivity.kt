@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("Pozdrav iz aplikacije od Terezije Umiljanović")
+        println("Pozdrav iz aplikacije od Terezije Umiljanović, br. indexa: 12345")
     }
 }
